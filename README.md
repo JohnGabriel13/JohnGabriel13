@@ -22,3 +22,5 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 
 [![John Gabriel stats](https://github-readme-stats.vercel.app/api?username=johngabriel13)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johngabriel13)](https://github.com/anuraghazra/github-readme-stats)
